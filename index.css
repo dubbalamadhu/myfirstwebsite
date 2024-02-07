@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    max-width: 800px;
+    width: 50%;
+    margin: auto;
+    border: 5px solid green;
+}
+.headding-tag{
+    text-align: center;
+}
+nav{
+    margin-top: 15px;
+}
+nav span{
+    margin-left: 15px;
+}
+nav span:first-child{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.img-conatiner{
+    float: right;
+    margin: 15px;
+    box-shadow: 0px 0px 15px rgb(48, 146, 188);
+}
+main.section.p{
+    margin: 15px;
+}
+.content-container{
+    margin: 20px;
+}
+section p{
+    margin-bottom: 20px;
+}
